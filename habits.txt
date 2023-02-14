@@ -6,3 +6,4 @@ vediet aj relaxovat a zostat sustredenu
 niekto iny
 4. Konzistetny sposob ako dostat do Zony -  Zonou je vlastne cas kedy pracujem na programovani a vytvarani kodu, stava sa ze sa do toho
 zahltin, stratim pojem o case, proste nevyrusuje ma okolie 
+5.stale sa ucit - pomaha nam to aj pochopit ako jednotlive program alebo system spolupracuju, cim nam to umoznuje zistit pripadny problem
