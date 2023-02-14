@@ -4,3 +4,5 @@ vediet aj relaxovat a zostat sustredenu
 2.Get it done attitude - sustredit sa na hlavnu myslienku vytvorenia svojho programu, nesustredit drobnosti ci pripadne male chy
 3.Robit to jednoducho - urobit program co najjednoduchsie, aby v pripade nejakych nejasnosti, vedel nejaky problem ale hlavne pracovat s programom aj 
 niekto iny
+4. Konzistetny sposob ako dostat do Zony -  Zonou je vlastne cas kedy pracujem na programovani a vytvarani kodu, stava sa ze sa do toho
+zahltin, stratim pojem o case, proste nevyrusuje ma okolie 
