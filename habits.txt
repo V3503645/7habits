@@ -8,3 +8,4 @@ niekto iny
 zahltin, stratim pojem o case, proste nevyrusuje ma okolie 
 5.stale sa ucit - pomaha nam to aj pochopit ako jednotlive program alebo system spolupracuju, cim nam to umoznuje zistit pripadny problem
 6.Spolupraca - timova praca je velmi dolezita, nakolko ini ludia mozu mat na veci iny pohlad a napad ako pracu zdokonalit
+7.Zvyk na samotu - je to praca aj o samote, treba sa na svoju pracu sustredit a nenechat sa prerusit okolim
