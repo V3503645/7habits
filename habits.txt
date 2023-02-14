@@ -1,4 +1,6 @@
 1. Programovanie je fyzivky narocna aktivina - narocnost programovania je velka aj y dovodu, ze sa sedi na stilicke v uzavretej miestnosti.
 dolezite je dbat nie len na spravne sedenie s vystretym chrbtom, ale aj prijimanie tekutin, drobne prestavky, sem tam sa prejst, proste
 vediet aj relaxovat a zostat sustredenu
-2.Get it done attitude - sustredit sa na hlavnu myslienku vytvorenia svojho programu, nesustredit drobnosti ci pripadne male chyby
+2.Get it done attitude - sustredit sa na hlavnu myslienku vytvorenia svojho programu, nesustredit drobnosti ci pripadne male chy
+3.Robit to jednoducho - urobit program co najjednoduchsie, aby v pripade nejakych nejasnosti, vedel nejaky problem ale hlavne pracovat s programom aj 
+niekto iny
